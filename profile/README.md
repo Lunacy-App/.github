@@ -1,4 +1,4 @@
-# Lunacy — Smart Vector Graphic Design App for Windows & macOS
+# Lunacy Download — Smart Vector Graphic Design App for Windows & macOS
 
 **Lunacy** is a powerful graphic editor from **Icons8**, built for designers who need a fast, intelligent, and lightweight alternative to heavy design suites.  
 It offers complete **Sketch file support**, AI-powered tools, and smooth offline performance across both **Windows** and **macOS**. 🎨  
